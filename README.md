@@ -4,7 +4,7 @@ To optimize the grocery product assortment by identifying underperforming items,
 
 📂 Dataset Used - https://github.com/prasadsalwe/Assortment_Rationalization/blob/main/Grocery%20Dataset.xlsx
 
-📌 Software/Tool Used - **SQL**
+📌 Software/Tool Used - **PYTHON**
 
 
 ❓ Business Questions / KPIs Addressed
